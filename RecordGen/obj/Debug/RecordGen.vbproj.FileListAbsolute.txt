@@ -1,0 +1,12 @@
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\bin\Debug\RecordGen.exe.config
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\bin\Debug\RecordGen.exe
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\bin\Debug\RecordGen.pdb
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\bin\Debug\RecordGen.xml
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.vbprojAssemblyReference.cache
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.Form1.resources
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.Resources.resources
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.vbproj.GenerateResource.cache
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.exe
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.xml
+F:\_VS.NET\_برامجي\RecordGen\RecordGen\obj\Debug\RecordGen.pdb
